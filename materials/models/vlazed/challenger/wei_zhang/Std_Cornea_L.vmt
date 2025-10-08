@@ -1,0 +1,30 @@
+VertexLitGeneric
+{
+	$basetexture		"models/vlazed/challenger/wei_zhang/Std_Cornea_L_albedo"
+	$bumpmap			"models/vlazed/challenger/wei_zhang/Std_Cornea_L_bump"
+	$translucent	1
+	$alpha	5
+
+	$envmap						"env_cubemap"
+	$envmaptint					"[0.1 0.1 0.1]"
+	$envmapcontrast				1.0
+	$envmapmask					"models/vlazed/challenger/wei_zhang/Std_Cornea_L_envmap"
+	$envmapfresnel				1
+	$envmaplightscale			1.0
+	$normalmapalphaenvmapmask	1
+
+	$phong 1
+	$phongexponenttexture		"models/vlazed/challenger/wei_zhang/Std_Cornea_L_phongexp"
+	$phongexponentfactor		32.0
+	$phongboost					32.0
+
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[2 1 5]"
+	"$halflambert" 1
+
+	// Rim lighting parameters
+	"$rimlight" 1												// To enable rim lighting (requires phong)
+	"$rimlightexponent" 4										// Exponent for phong component of rim lighting	
+	"$rimlightboost" 2										// Boost for ambient cube component of rim lighting
+
+}

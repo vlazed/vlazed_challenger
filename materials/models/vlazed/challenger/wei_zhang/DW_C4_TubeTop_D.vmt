@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	$basetexture		"models/vlazed/challenger/wei_zhang/DW_C4_TubeTop_D_albedo"
+	$bumpmap			"models/vlazed/challenger/wei_zhang/DW_C4_TubeTop_D_bump"
+	//$bumpmap			"dev/flat_normal"
+	$envmaplightscale			1.0
+
+	$phong 1
+	$phongexponenttexture		"models/vlazed/challenger/wei_zhang/DW_C4_TubeTop_D_phongexp"
+	$phongexponentfactor		32.0
+	$phongboost					0.1
+	$phongfresnelranges			"[0.1 0.8 1.0]"
+	$softwareskin	1
+
+	$lightwarptexture "models/player/pyro/pyro_lightwarp"
+	$halflambert	1
+
+	$rimlight	1
+	$rimlightexponent	4
+	$rimlightboost	2
+}

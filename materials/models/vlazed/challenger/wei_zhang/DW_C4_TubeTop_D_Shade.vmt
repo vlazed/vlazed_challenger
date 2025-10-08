@@ -1,0 +1,11 @@
+Patch
+{
+	include		"materials/models/vlazed/challenger/wei_zhang/DW_C4_TubeTop_D.vmt"
+
+	insert
+	{
+	$baseTexture	"models/vlazed/challenger/wei_zhang/DW_C4_TubeTop_D_shade"
+	$color2	"[0.125 0.125 0.125]"
+	$phong	0
+	}
+}

@@ -1,0 +1,10 @@
+Patch
+{
+	include		"materials/models/vlazed/challenger/wei_zhang/Shoe_Left.vmt"
+
+	insert
+	{
+	$phong	0
+	$color2	"[0 0 0]"
+	}
+}

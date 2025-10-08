@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture		"models/vlazed/challenger/wei_zhang/Std_Nails_albedo"
+	$bumpmap			"models/vlazed/challenger/wei_zhang/Std_Nails_bump"
+
+	$envmap						"env_cubemap"
+	$envmaptint					"[0.1 0.1 0.1]"
+	$envmapcontrast				1.0
+	$normalmapalphaenvmapmask	1
+	$basemapalphaphongmask		1
+	$envmaplightscale			1.0
+
+	$phong 1
+	$phongexponenttexture		"models/vlazed/challenger/wei_zhang/Std_Nails_phongexp"
+	$phongexponentfactor		32.0
+	$phongboost					5.0
+	$phongfresnelranges			"[0.1 0.8 1.0]"
+}

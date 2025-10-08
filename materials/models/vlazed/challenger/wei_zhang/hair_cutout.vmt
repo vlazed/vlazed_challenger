@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	$basetexture		"models/vlazed/challenger/wei_zhang/hair_cutout_albedo"
+	$bumpmap			"models/vlazed/challenger/wei_zhang/hair_cutout_bump"
+	$envmaplightscale			1.0
+	$translucent	1
+	$nocull	1
+
+	$phong 1
+	$phongexponenttexture		"models/vlazed/challenger/wei_zhang/hair_cutout_phongexp"
+	$phongexponentfactor		32.0
+	$phongboost					5.0
+	$phongfresnelranges			"[0.1 0.8 1.0]"
+}
