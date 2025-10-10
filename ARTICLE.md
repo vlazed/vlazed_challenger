@@ -1,12 +1,18 @@
-# Zhang Wei
+# Zhang Wei <!-- omit from toc -->
 
-## Table Of Contents
+## Table Of Contents <!-- omit from toc -->
+
+- [History](#history)
+- [Mechanics](#mechanics)
+  - [Equipment](#equipment)
+  - [Abilities](#abilities)
+- [Personality](#personality)
 
 ## History
 
 This alien comes from a race of humanoid ESPers. She is the “weakest of her kind”: no telepathy, no telekinesis, no flight, and no matter manipulation (they’re pretty OP). She only has the basic features of superhuman durability, and the basic ESP skills: capture, channel, switch.
 
-She’s so weak these ESPer’s equivalent of NASA spent alotta Starbucks to mind-control our planet’s wizards and engineers to isekai her out of their civilization. Sad 😢, but thanks to human error, they summoned her to Sensei. 
+She’s so weak these ESPer’s equivalent of NASA spent alotta Starbucks to mind-control our planet’s wizards and engineers to isekai her out of their civilization. Sad 😢, but thanks to human error, they summoned her to Sensei.
 
 Sensei taught her how to integrate her essence capture and channeling abilities into some elaborate kicking and punching shit (bingewatched Jackie Chan lmao). Sensei is dead now. 😢 To honor their memory, this alien named herself after her teacher: **Zhang Wei**
 
@@ -46,7 +52,8 @@ Wei switches the pebble’s poop signature and throws it at someone’s poop sto
 ## Personality
 
 Other than her race and Sensei’s teachings, she doesn’t take many things seriously. Wei is also toxically Gen Z:
-- She always posts her reels. 
+
+- She always posts her reels
 - She tryhards on her (online) arguments to convince others she’s an alien
 - She’s trying to get the latest kicks
 - She’s on her phone
