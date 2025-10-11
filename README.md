@@ -19,3 +19,4 @@ The workshop version is always synchronized to this repo. Click this link if you
 ## Credits
 
 - [Melodramask (Comedy)](https://steamcommunity.com/sharedfiles/filedetails/?id=3033497807) ([GMod port](https://steamcommunity.com/sharedfiles/filedetails/?id=3574419691))
+- [The Backup Jacket](https://steamcommunity.com/sharedfiles/filedetails/?id=298016300) ([GMod port](https://steamcommunity.com/sharedfiles/filedetails/?id=1893221426))
