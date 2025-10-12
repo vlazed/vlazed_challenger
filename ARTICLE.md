@@ -1,5 +1,9 @@
 # Zhang Wei <!-- omit from toc -->
 
+|![wei_poster](media/wei_poster_4.jpg)|
+|:-:|
+|Whats poppin!!!!|
+
 ## Table Of Contents <!-- omit from toc -->
 
 - [History](#history)
@@ -12,9 +16,9 @@
 
 This alien comes from a race of humanoid ESPers. She is the “weakest of her kind”: no telepathy, no telekinesis, no flight, and no matter manipulation (they’re pretty OP). She only has the basic features of superhuman durability, and the basic ESP skills: capture, channel, switch.
 
-She’s so weak these ESPer’s equivalent of NASA spent alotta Starbucks to mind-control our planet’s wizards and engineers to isekai her out of their civilization. Sad 😢, but thanks to human error, they summoned her to Sensei.
+Why is she here? She’s so weak her species' equivalent of NASA spent alotta Starbucks to mind-control our planet’s wizards and engineers to isekai her out of their civilization. Sad 😢, but thanks to human error, they summoned her to Sensei.
 
-Sensei taught her how to integrate her essence capture and channeling abilities into some elaborate kicking and punching shit (bingewatched Jackie Chan lmao). Sensei is dead now. 😢 To honor their memory, this alien named herself after her teacher: **Zhang Wei**
+Sensei taught her how to integrate her essence capture and channeling abilities into some elaborate kicking and punching shit (bingewatched Jackie Chan lmao). Sensei is dead now. 😢 To honor their memory, this alien named herself after her teacher: **Zhang Wei**.
 
 Zhang Wei is a martial artist and an alien, who comes from a race of humanoid ESPers. She works as a stuntman with an aspiration for acting.
 
@@ -26,6 +30,7 @@ She is mainly a close quarters combatant who employs Taekwondo and Wing Chun. Sh
 
 - Airgun
 - Rental car
+- Cloak and mask
 
 ### Abilities
 
@@ -47,7 +52,7 @@ There’s a pebble on the ground. Wei will hold the pebble and channel it with t
 
 **Essence Switch** changes the “sign” of the signature into its antisignature—it inverts it, makes it negative. The aura’s color’s invert (and so does its smell). If the antisignature object and an object with a similar signature meet, it’ll produce an explosive energy. The more similar the object, the stronger the explosive force, and the more momentum each object carries on collision, the stronger the explosive force.
 
-Wei switches the pebble’s poop signature and throws it at someone’s poop stock. Poop goes 💥 because
+Wei switches the pebble’s poop signature and baseball pitches it back at someone’s poop stock. Poop goes 💥 because of the speed and the likeness of the signature.
 
 ## Personality
 
