@@ -20,11 +20,11 @@ Why is she here? She’s so weak her species' equivalent of NASA spent alotta St
 
 Sensei taught her how to integrate her essence capture and channeling abilities into some elaborate kicking and punching shit (bingewatched Jackie Chan lmao). Sensei is dead now. 😢 To honor their memory, this alien named herself after her teacher: **Zhang Wei**.
 
-Zhang Wei is a martial artist and an alien, who comes from a race of humanoid ESPers. She works as a stuntman with an aspiration for acting.
+Zhang Wei is a martial artist and an alien, who comes from a race of humanoid ESPers. She works as a stuntwoman with an aspiration for acting.
 
 ## Mechanics
 
-She is mainly a close quarters combatant who employs Taekwondo and Wing Chun. She mixes her powers into her martial arts to at least stay on edge with the roster.
+She is mainly a close quarters combatant who employs Taekwondo and Wing Chun styles. She mixes her powers into her martial arts to at least stay on edge with the roster.
 
 ### Equipment
 
@@ -34,7 +34,9 @@ She is mainly a close quarters combatant who employs Taekwondo and Wing Chun. Sh
 
 ### Abilities
 
-She has superhuman durability, and thanks to that, she is pretty agile: any risky maneuver that would hurt a human, such as dropping from long heights or getting run over, barely hurts her. Her strength and speed is exceptional for human standards, but she can’t lift a car nor can she "teleport" around with her nimbleness. She makes up for it with her ESPer skills:
+She has superhuman durability--her arms are a consequential feature of that. Any risky maneuver that would hurt a human, such as dropping from long heights or getting run over, barely hurts her. Her durability allows her to experiment and iterate (without punishment) on different, acrobatic maneuvers. She has a pretty stable stunt double career, thanks to that 😀. 
+
+Her strength and speed is exceptional for human standards, below Olympian and above average, but she can’t lift a car nor can she "teleport" around with her nimbleness. She makes up for it with her ESPer skills:
 
 - Essence Capture
 - Essence Channel
