@@ -1,0 +1,6975 @@
+{
+	"Model": "models/vlazed/challenger/wei_zhang_jiggle.mdl",
+	"PresetGroups": [
+		{
+			"Presets": [
+				{
+					"Name": "B",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 1
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 1
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "S",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.019999999552965164
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 1
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5299999713897705
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0.4000000059604645
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "AX",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.5400000214576721
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.3700000047683716
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "T",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 1
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0.800000011920929
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5899999737739563
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "AO",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0.6700000166893005
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.05000000074505806
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "N",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.07000000029802322
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 1
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0.3499999940395355
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0.2800000011920929
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "AA",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.05000000074505806
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "G",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.3700000047683716
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.4600000083446502
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.5
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.5
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0.029999999329447743
+						}
+					]
+				},
+				{
+					"Name": "W",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.1599999964237213
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0.7799999713897705
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "F",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.4099999964237213
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.4099999964237213
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 1
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "Y",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.3700000047683716
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.5
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.5
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "V",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0.4399999976158142
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.4099999964237213
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.4099999964237213
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 1
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "HH",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.12999999523162842
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.5199999809265137
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "EH",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.2800000011920929
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.5899999737739563
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0.4600000083446502
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.7200000286102295
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.7400000095367432
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0.18000000715255737
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0.18000000715255737
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "ER",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.25
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "Z",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0.3100000023841858
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 1
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5299999713897705
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0.4000000059604645
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "IH",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.009999999776482582
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.5899999737739563
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0.4600000083446502
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.7200000286102295
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.7400000095367432
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0.18000000715255737
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0.18000000715255737
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "M",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 1
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 1
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "CH",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 1
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5299999713897705
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "DH",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0.5400000214576721
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.4099999964237213
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "AH",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "IY",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.05000000074505806
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 1
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.6700000166893005
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.2800000011920929
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.2800000011920929
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "EY",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.3700000047683716
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.5
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.5
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "NX",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.3700000047683716
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "UH",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0.6100000143051147
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "UW",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.1899999976158142
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 1
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "D",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0.3100000023841858
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 1
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5299999713897705
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "P",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0.41999998688697815
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0.3400000035762787
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "JH",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 1
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5299999713897705
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "AE",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.3700000047683716
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.5
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.5
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "SH",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0.6399999856948853
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.4699999988079071
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "R",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.2199999988079071
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0.4600000083446502
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "L",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.07000000029802322
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 1
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.38999998569488525
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "OW",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.5600000023841858
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0.9100000262260436
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "C",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0.029999999329447743
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0.6100000143051147
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.6499999761581421
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0.2800000011920929
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0.2800000011920929
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "TH",
+					"ControlValues": [
+						{
+							"Name": "VOpen",
+							"Value": 0
+						},
+						{
+							"Name": "VExplosive",
+							"Value": 0
+						},
+						{
+							"Name": "VDentalLip",
+							"Value": 0.5400000214576721
+						},
+						{
+							"Name": "VTightO",
+							"Value": 0
+						},
+						{
+							"Name": "VTight",
+							"Value": 0
+						},
+						{
+							"Name": "VWide",
+							"Value": 0
+						},
+						{
+							"Name": "VAffricate",
+							"Value": 0
+						},
+						{
+							"Name": "VLipOpen",
+							"Value": 0
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBlow",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPucker",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPuckerOpen",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWiden",
+							"Value": 0
+						},
+						{
+							"Name": "MouthWidenSides",
+							"Value": 0.5400000214576721
+						},
+						{
+							"Name": "MouthDimpleL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDimpleR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthPlosive",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTight",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsTuck",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsOpen",
+							"Value": 0.4099999964237213
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthTopLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipUnder",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlUpperR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSnarlLowerR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipBite",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsJawAdjust",
+							"Value": 0
+						},
+						{
+							"Name": "MouthBottomLipTrans",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSkewer",
+							"Value": 0
+						},
+						{
+							"Name": "MouthOpen",
+							"Value": 0
+						}
+					]
+				}
+			],
+			"Name": "Viseme"
+		},
+				{
+			"Presets": [
+				{
+					"Name": "happyBig",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 0.6800000071525574
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 0.6200000047683716
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 1
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 1
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 0.23000000417232513
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 1
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 1
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0.25
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0.1899999976158142
+						},
+						{
+							"Name": "MouthSmile",
+							"Value": 1
+						},
+						{
+							"Name": "MouthSmileL",
+							"Value": 0.019999999552965164
+						},
+						{
+							"Name": "MouthSmileR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrownL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrownR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthR",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "scaredUpper",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 1
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 1
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 1
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 1
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 1
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 1
+						}
+					]
+				},
+				{
+					"Name": "happySmall",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 0.5299999713897705
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmile",
+							"Value": 0.6800000071525574
+						},
+						{
+							"Name": "MouthSmileL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmileR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrownL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrownR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0
+						},
+						{
+							"Name": "MouthL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthR",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "happyBigUpper",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 0.6800000071525574
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 0.6200000047683716
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 1
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 1
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 0.23000000417232513
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 1
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 1
+						}
+					]
+				},
+				{
+					"Name": "mad",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 1
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 1
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 1
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 1
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 1
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 1
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 1
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0.3199999928474426
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmile",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmileL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmileR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrown",
+							"Value": 0.4000000059604645
+						},
+						{
+							"Name": "MouthFrownL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrownR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0.6600000262260437
+						},
+						{
+							"Name": "MouthL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthR",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "madUpper",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 1
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 1
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 1
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 1
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 1
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 1
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 1
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 0.5099999904632568
+						}
+					]
+				},
+				{
+					"Name": "painBig",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 0.4000000059604645
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 1
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 1
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 0.41999998688697815
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 1
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 1
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0.3199999928474426
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmile",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmileL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmileR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrown",
+							"Value": 0.11999999731779099
+						},
+						{
+							"Name": "MouthFrownL",
+							"Value": 0.05999999865889549
+						},
+						{
+							"Name": "MouthFrownR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0.8999999761581421
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0.41999998688697815
+						},
+						{
+							"Name": "MouthL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthR",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "happySmallUpper",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 0.5299999713897705
+						}
+					]
+				},
+				{
+					"Name": "painBigUpper",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 0.4000000059604645
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 1
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 1
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 0.41999998688697815
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 1
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 1
+						}
+					]
+				},
+				{
+					"Name": "scared",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 1
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 1
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 1
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 1
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 1
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 1
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmile",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmileL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmileR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrown",
+							"Value": 0.03999999910593033
+						},
+						{
+							"Name": "MouthFrownL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrownR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 0.5799999833106995
+						},
+						{
+							"Name": "MouthL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthR",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "painSmall",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 0.4699999988079071
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 0.7300000190734863
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 0.75
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 0.550000011920929
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 0.5299999713897705
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 0.41999998688697815
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "CheeksSuck",
+							"Value": 0.3199999928474426
+						},
+						{
+							"Name": "CheekBlowL",
+							"Value": 0
+						},
+						{
+							"Name": "CheekBlowR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmile",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmileL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthSmileR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrown",
+							"Value": 0.27000001072883606
+						},
+						{
+							"Name": "MouthFrownL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthFrownR",
+							"Value": 0
+						},
+						{
+							"Name": "MouthLipsPart",
+							"Value": 0
+						},
+						{
+							"Name": "MouthDown",
+							"Value": 0
+						},
+						{
+							"Name": "MouthUp",
+							"Value": 1
+						},
+						{
+							"Name": "MouthL",
+							"Value": 0
+						},
+						{
+							"Name": "MouthR",
+							"Value": 0
+						}
+					]
+				},
+				{
+					"Name": "painSmallUpper",
+					"ControlValues": [
+						{
+							"Name": "BrowRaiseInnerLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseInnerRight",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseOuterLeft",
+							"Value": 0.4699999988079071
+						},
+						{
+							"Name": "BrowRaiseOuterRight",
+							"Value": 0.36000001430511475
+						},
+						{
+							"Name": "BrowDropLeft",
+							"Value": 0.7300000190734863
+						},
+						{
+							"Name": "BrowDropRight",
+							"Value": 0.75
+						},
+						{
+							"Name": "BrowRaiseLeft",
+							"Value": 0
+						},
+						{
+							"Name": "BrowRaiseRight",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideL",
+							"Value": 0
+						},
+						{
+							"Name": "EyeWideR",
+							"Value": 0
+						},
+						{
+							"Name": "EyeSquintL",
+							"Value": 0.550000011920929
+						},
+						{
+							"Name": "EyeSquintR",
+							"Value": 0.5299999713897705
+						},
+						{
+							"Name": "NoseScrunch",
+							"Value": 0.41999998688697815
+						},
+						{
+							"Name": "NoseFlanksRaise",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseL",
+							"Value": 0
+						},
+						{
+							"Name": "NoseFlankRaiseR",
+							"Value": 0
+						},
+						{
+							"Name": "NoseNostrilsFlare",
+							"Value": 0
+						},
+						{
+							"Name": "CheekRaiseL",
+							"Value": 0.5099999904632568
+						},
+						{
+							"Name": "CheekRaiseR",
+							"Value": 0.5099999904632568
+						}
+					]
+				}
+			],
+			"Name": "Emotion"
+		}
+	]
+}

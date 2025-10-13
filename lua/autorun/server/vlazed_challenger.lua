@@ -65,6 +65,22 @@ local function processEntities()
 	end
 end
 
+local function initializePhonemeDirectory()
+	local file1 = "data_static/phonemetool/wei_zhang.txt"
+	local file2 = "data_static/phonemetool/wei_zhang_jiggle.txt"
+
+	file.CreateDir("phonemetool")
+
+	if not file.Exists("phonemetool/wei_zhang.txt", "DATA") then
+		file.Write("phonemetool/wei_zhang.txt", file.Read(file1, "GAME"))
+	end
+	if not file.Exists("phonemetool/wei_zhang_jiggle.txt", "DATA") then
+		file.Write("phonemetool/wei_zhang_jiggle.txt", file.Read(file2, "GAME"))
+	end
+end
+
+initializePhonemeDirectory()
+
 for _, entity in ents.Iterator() do
 	if filter(entity) then
 		table.insert(entities, entity)

@@ -14,7 +14,7 @@ The workshop version is always synchronized to this repo. Click [this link](http
 - **Cloak and mask props**: Animators can make Wei unequip her cloak and mask
 - **Procedural bones**: Wrists, knees, etc: they should be there 😊
 - **Lua-driven Eyes**: A script rotates Wei's eyes when you use Eyeposer
-- **Phonemes (WIP)**: Wei comes with phonemes for the Phoneme Tool
+- **Phoneme Tool support**: Wei comes with visemes and emotions, ready for use with the [Phoneme Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=465506167)
 
 ## Credits
 
