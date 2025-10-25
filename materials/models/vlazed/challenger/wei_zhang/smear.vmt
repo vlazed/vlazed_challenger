@@ -1,4 +1,4 @@
-VertexLitGeneric
+UnlitGeneric
 {
 	$basetexture		"models/vlazed/challenger/wei_zhang/smear_albedo"
 	//$bumpmap			"models/vlazed/challenger/wei_zhang/hair_bump"
