@@ -1,0 +1,13 @@
+"SpriteCard"
+{
+	$basetexture "particle/vlazed/aura_erratic"
+	$translucent "1"
+	$blendframes "0"
+	$vertexcolor "0"
+	$vertexalpha "0"
+	$additive "0"
+	$nocull 1
+	$intensity 1
+	$addself 100
+	$orientation 3
+}

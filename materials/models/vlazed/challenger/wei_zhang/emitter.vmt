@@ -4,6 +4,7 @@ UnlitGeneric
 	$bumpmap			"models/vlazed/challenger/wei_zhang/antenna_bump"
 	$envmaplightscale			1.0
 
+	//$color2 "[0 0 0]"
 	$translucent	1
 	$nocull	1
 
