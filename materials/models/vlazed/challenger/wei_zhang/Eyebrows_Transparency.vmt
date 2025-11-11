@@ -1,8 +1,12 @@
-PBR
+VertexLitGeneric
 {
 	$basetexture		"models/vlazed/challenger/wei_zhang/Eyebrows_Transparency_albedo"
 	$bumpmap			"models/vlazed/challenger/wei_zhang/Eyebrows_Transparency_bump"
+	$envmaplightscale			1.0
 
-	$mraotexture		"models/vlazed/challenger/wei_zhang/Eyebrows_Transparency_mrao"
-	$model				1
+	$phong 1
+	$phongexponenttexture		"models/vlazed/challenger/wei_zhang/Eyebrows_Transparency_phongexp"
+	$phongexponentfactor		32.0
+	$phongboost					5.0
+	$phongfresnelranges			"[0.1 0.8 1.0]"
 }
