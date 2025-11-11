@@ -1,0 +1,8 @@
+PBR
+{
+	$basetexture		"models/vlazed/challenger/wei_zhang/Eyebrows_Transparency_albedo"
+	$bumpmap			"models/vlazed/challenger/wei_zhang/Eyebrows_Transparency_bump"
+
+	$mraotexture		"models/vlazed/challenger/wei_zhang/Eyebrows_Transparency_mrao"
+	$model				1
+}
