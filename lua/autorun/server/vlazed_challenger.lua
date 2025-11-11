@@ -10,6 +10,8 @@ end
 local validModels = {
 	["models/vlazed/challenger/wei_zhang.mdl"] = true,
 	["models/vlazed/challenger/wei_zhang_jiggle.mdl"] = true,
+	["models/vlazed/challenger/wei_zhang2.mdl"] = true,
+	["models/vlazed/challenger/wei_zhang2_jiggle.mdl"] = true,
 }
 
 ---@type Entity[]
@@ -44,23 +46,38 @@ local function negativeAngle(angle)
 	return angle
 end
 
+local zero = Vector(180, 0, 0)
 local function processEntities()
 	-- Bone ids
 	local left, right = 15, 14
 	for _, entity in ipairs(entities) do
 		---@diagnostic disable-next-line
-		local lookAngle = entity:GetEyeTarget():Angle()
+		local lookTarget = entity:GetEyeTarget()
+		---@cast lookTarget Vector
+		local length = lookTarget:Length()
+
+		-- SMH initializes eyetargets to `zero`
+		-- If we don't check for this, then she will spawn cross eyed
+		if lookTarget == zero then
+			length = 1000
+		end
+
+		local distance = length / 1000
+		local split = lookTarget.x > 0
+		local sign = split and 1 or -1
+
+		local lookAngle = lookTarget:Angle()
 		---@cast lookAngle Angle
 
-		local pitch = negativeAngle(lookAngle.p)
-		local yaw = negativeAngle(lookAngle.y)
-
+		local pitch = negativeAngle(split and lookAngle.p or 360 - lookAngle.p)
+		local yaw = negativeAngle(split and lookAngle.y or lookAngle.y - 180)
+		
 		lookAngle.p = 0
-		lookAngle.y = math.Remap(yaw, -45, 45, -32.40, 42.15)
+		lookAngle.y = math.Remap(yaw, -45, 45, -32.40, 42.15) * distance + sign * -32.40 * (1 - distance)
 		lookAngle.r = math.Remap(pitch, -45, 45, -15, 25)
-
+		
 		entity:ManipulateBoneAngles(left, lookAngle)
-		lookAngle.y = math.Remap(yaw, -45, 45, -42.15, 32.40)
+		lookAngle.y = math.Remap(yaw, -45, 45, -42.15, 32.40) * distance + sign * 32.40 * (1 - distance)
 		entity:ManipulateBoneAngles(right, lookAngle)
 	end
 end
