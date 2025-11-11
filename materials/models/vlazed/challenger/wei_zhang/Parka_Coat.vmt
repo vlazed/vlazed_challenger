@@ -2,6 +2,7 @@ VertexLitGeneric
 {
 	$basetexture		"models/vlazed/challenger/wei_zhang/Parka_Coat_albedo"
 	$bumpmap			"models/vlazed/challenger/wei_zhang/Parka_Coat_bump"
+	$nocull	1
 
 	$envmap						"env_cubemap"
 	$envmaptint					"[0.1 0.1 0.1]"
@@ -10,9 +11,18 @@ VertexLitGeneric
 	$envmapfresnel				1
 	$envmaplightscale			1.0
 
+	$color2 "[0.9 0.4 0.6]"
+
 	$phong 1
 	$phongexponenttexture		"models/vlazed/challenger/wei_zhang/Parka_Coat_phongexp"
 	$phongexponentfactor		32.0
 	$phongboost					5.0
 	$phongfresnelranges			"[0.1 0.8 1.0]"
+
+	$lightwarptexture "models/player/pyro/pyro_lightwarp"
+	$halflambert	1
+
+	$rimlight	1
+	$rimlightexponent	4
+	$rimlightboost	2
 }

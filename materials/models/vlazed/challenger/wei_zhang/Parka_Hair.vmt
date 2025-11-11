@@ -4,6 +4,7 @@ VertexLitGeneric
 	$bumpmap			"models/vlazed/challenger/wei_zhang/Parka_Hair_bump"
 	$alphatest	1
 	$allowalphatocoverage	1
+	// $translucent	1	
 	$nocull	1
 
 	$normalmapalphaenvmapmask	1
@@ -20,4 +21,11 @@ VertexLitGeneric
 	$phongexponentfactor		32.0
 	$phongboost					5.0
 	$phongfresnelranges			"[0.1 0.8 1.0]"
+
+	$lightwarptexture "models/player/pyro/pyro_lightwarp"
+s	$halflambert	1
+
+	$rimlight	1
+	$rimlightexponent	4
+	$rimlightboost	2
 }
