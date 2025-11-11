@@ -71,11 +71,11 @@ local function processEntities()
 
 		local pitch = negativeAngle(split and lookAngle.p or 360 - lookAngle.p)
 		local yaw = negativeAngle(split and lookAngle.y or lookAngle.y - 180)
-		
+
 		lookAngle.p = 0
 		lookAngle.y = math.Remap(yaw, -45, 45, -32.40, 42.15) * distance + sign * -32.40 * (1 - distance)
 		lookAngle.r = math.Remap(pitch, -45, 45, -15, 25)
-		
+
 		entity:ManipulateBoneAngles(left, lookAngle)
 		lookAngle.y = math.Remap(yaw, -45, 45, -42.15, 32.40) * distance + sign * 32.40 * (1 - distance)
 		entity:ManipulateBoneAngles(right, lookAngle)
@@ -83,16 +83,22 @@ local function processEntities()
 end
 
 local function initializePhonemeDirectory()
-	local file1 = "data_static/phonemetool/wei_zhang.txt"
-	local file2 = "data_static/phonemetool/wei_zhang_jiggle.txt"
+	local dataStatic = "data_static/phonemetool/"
+	local data = "phonemetool/"
+
+	local files = {
+		"wei_zhang.txt",
+		"wei_zhang_jiggle.txt",
+		"wei_zhang2.txt",
+		"wei_zhang2_jiggle.txt",
+	}
 
 	file.CreateDir("phonemetool")
 
-	if not file.Exists("phonemetool/wei_zhang.txt", "DATA") then
-		file.Write("phonemetool/wei_zhang.txt", file.Read(file1, "GAME"))
-	end
-	if not file.Exists("phonemetool/wei_zhang_jiggle.txt", "DATA") then
-		file.Write("phonemetool/wei_zhang_jiggle.txt", file.Read(file2, "GAME"))
+	for _, f in ipairs(files) do
+		if not file.Exists(data .. f, "DATA") then
+			file.Write(data .. f, file.Read(dataStatic .. f, "GAME"))
+		end
 	end
 end
 
