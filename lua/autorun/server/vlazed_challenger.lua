@@ -93,6 +93,8 @@ local function initializePhonemeDirectory()
 		"wei_zhang_jiggle.txt",
 		"wei_zhang2.txt",
 		"wei_zhang2_jiggle.txt",
+		"wei_zhang2_casual.txt",
+		"wei_zhang2_casual_jiggle.txt",
 	}
 
 	file.CreateDir("phonemetool")
