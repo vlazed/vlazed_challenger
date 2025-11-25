@@ -12,6 +12,8 @@ local validModels = {
 	["models/vlazed/challenger/wei_zhang_jiggle.mdl"] = true,
 	["models/vlazed/challenger/wei_zhang2.mdl"] = true,
 	["models/vlazed/challenger/wei_zhang2_jiggle.mdl"] = true,
+	["models/vlazed/challenger/wei_zhang2_casual.mdl"] = true,
+	["models/vlazed/challenger/wei_zhang2_casual_jiggle.mdl"] = true,
 }
 
 ---@type Entity[]
