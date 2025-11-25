@@ -1,6 +1,6 @@
 VertexLitGeneric
 {
-	$basetexture		"models/vlazed/challenger/wei_zhang/Std_Skin_Head_Sweat_albedo"
+	$basetexture		"models/vlazed/challenger/wei_zhang/Std_Skin_Head_albedo"
 	$bumpmap			"models/vlazed/challenger/wei_zhang/Std_Skin_Head_Sweat_bump"
 
 	$envmap						"env_cubemap"
