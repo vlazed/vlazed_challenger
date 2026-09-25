@@ -2,6 +2,7 @@ VertexLitGeneric
 {
 	$basetexture		"models/vlazed/challenger/wei_zhang/Std_Cornea_R_albedo"
 	$bumpmap			"models/vlazed/challenger/wei_zhang/Std_Cornea_R_bump"
+	$additive	1
 	$translucent	1
 	$alpha	0.5
 
@@ -16,7 +17,7 @@ VertexLitGeneric
 	$phong 1
 	$phongexponenttexture		"models/vlazed/challenger/wei_zhang/Std_Cornea_R_phongexp"
 	$phongexponentfactor		32.0
-	$phongboost					32.0
+	$phongboost					5.0
 
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
 	"$phongfresnelranges"	"[2 1 5]"
