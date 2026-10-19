@@ -1,5 +1,7 @@
 # Zhang Wei
 
+[![Deploy to Workshop](https://github.com/vlazed/vlazed_challenger/actions/workflows/workshop_deploy.yml/badge.svg)](https://github.com/vlazed/vlazed_challenger/actions/workflows/workshop_deploy.yml)
+
 This repo contains the model and assets for Zhang Wei, a character for the New Challengers Collab.
 
 The workshop version is always synchronized to this repo. Click [this link](https://steamcommunity.com/sharedfiles/filedetails/?id=3585365082) if you are looking for the Steam Workshop version.
