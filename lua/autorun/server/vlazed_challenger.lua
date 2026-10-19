@@ -49,38 +49,42 @@ local function negativeAngle(angle)
 end
 
 local zero = Vector(180, 0, 0)
-local function processEntities()
+local function process(entity)
 	-- Bone ids
 	local left, right = 15, 14
+	---@diagnostic disable-next-line
+	local lookTarget = entity:GetEyeTarget()
+	---@cast lookTarget Vector
+	local length = lookTarget:Length()
+
+	-- SMH initializes eyetargets to `zero`
+	-- If we don't check for this, then she will spawn cross eyed
+	if lookTarget == zero then
+		length = 1000
+	end
+
+	local distance = length / 1000
+	local split = lookTarget.x > 0
+	local sign = split and 1 or -1
+
+	local lookAngle = lookTarget:Angle()
+	---@cast lookAngle Angle
+
+	local pitch = negativeAngle(split and lookAngle.p or 360 - lookAngle.p)
+	local yaw = negativeAngle(split and lookAngle.y or lookAngle.y - 180)
+
+	lookAngle.p = 0
+	lookAngle.y = math.Remap(yaw, -45, 45, -32.40, 42.15) * distance + sign * -32.40 * (1 - distance)
+	lookAngle.r = math.Remap(pitch, -45, 45, -15, 25)
+
+	entity:ManipulateBoneAngles(left, lookAngle)
+	lookAngle.y = math.Remap(yaw, -45, 45, -42.15, 32.40) * distance + sign * 32.40 * (1 - distance)
+	entity:ManipulateBoneAngles(right, lookAngle)
+end
+
+local function processEntities()
 	for _, entity in ipairs(entities) do
-		---@diagnostic disable-next-line
-		local lookTarget = entity:GetEyeTarget()
-		---@cast lookTarget Vector
-		local length = lookTarget:Length()
-
-		-- SMH initializes eyetargets to `zero`
-		-- If we don't check for this, then she will spawn cross eyed
-		if lookTarget == zero then
-			length = 1000
-		end
-
-		local distance = length / 1000
-		local split = lookTarget.x > 0
-		local sign = split and 1 or -1
-
-		local lookAngle = lookTarget:Angle()
-		---@cast lookAngle Angle
-
-		local pitch = negativeAngle(split and lookAngle.p or 360 - lookAngle.p)
-		local yaw = negativeAngle(split and lookAngle.y or lookAngle.y - 180)
-
-		lookAngle.p = 0
-		lookAngle.y = math.Remap(yaw, -45, 45, -32.40, 42.15) * distance + sign * -32.40 * (1 - distance)
-		lookAngle.r = math.Remap(pitch, -45, 45, -15, 25)
-
-		entity:ManipulateBoneAngles(left, lookAngle)
-		lookAngle.y = math.Remap(yaw, -45, 45, -42.15, 32.40) * distance + sign * 32.40 * (1 - distance)
-		entity:ManipulateBoneAngles(right, lookAngle)
+		process(entity)
 	end
 end
 
@@ -118,5 +122,26 @@ hook.Remove("OnEntityCreated", "vlazed_challenger_add")
 hook.Add("OnEntityCreated", "vlazed_challenger_add", entityCreated)
 hook.Remove("EntityRemoved", "vlazed_challenger_remove")
 hook.Add("EntityRemoved", "vlazed_challenger_remove", entityRemoved)
+
+local isfunction = isfunction
+local function thinkProcess()
+	for _, ply in player.Iterator() do
+		if isfunction(SMH.PlaybackManager.GetActivePlayback) and SMH.PlaybackManager.GetActivePlayback(ply) then
+			continue
+		end
+		processEntities()
+	end
+end
 hook.Remove("Think", "vlazed_challenger_think")
-hook.Add("Think", "vlazed_challenger_think", processEntities)
+hook.Add("Think", "vlazed_challenger_think", thinkProcess)
+
+-- This function is only available in SMH Beta
+local function processSMH(entities)
+	for _, entity in ipairs(entities) do
+		if filter(entity) then
+			process(entity)
+		end
+	end
+end
+hook.Remove("SMH_PostFrameEntity", "vlazed_challenger_process")
+hook.Add("SMH_PostFrameEntity", "vlazed_challenger_process", processSMH)

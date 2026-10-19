@@ -1,0 +1,3 @@
+{
+    "ignoreDir": ["node_modules", ".git", "lua/particlelists"]
+}
